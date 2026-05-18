@@ -1,2 +1,2 @@
 # coeus
-Repo for coeus.exchange
+Repo for dev.coeus.exchange
