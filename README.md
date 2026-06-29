@@ -130,4 +130,4 @@ All content is open, free, and built for exploration.
 ## 📜 License
 
 Open educational use permitted under TriadicFrameworks Canon License.  
-Attribution: *Nawder Loswin (Andrew Wilson)* — TriadicFrameworks Project.
+Attribution: *Nawder Loswin* — TriadicFrameworks Project.
